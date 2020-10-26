@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sipariş Uygulaması </string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="title_catagory">Catagory</string>
+    <string name="title_navigation">Navigation</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map_key" translatable="true">AIzaSyAayx4Vu2ghNoSN2SN-TA5_I_SEjq9_Cgg</string>
+
+</resources>
